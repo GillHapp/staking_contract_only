@@ -1,4 +1,5 @@
-
+These contract and there verificaiton is done on the holisky testnet 
+cause of lack of sepolia in my wallet
 
 these are only for the refrence purpose cause this repo only have contract 
 casue i do all the funciton things on remixIDE
