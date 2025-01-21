@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+
+these are only for the refrence purpose cause this repo only have contract 
+casue i do all the funciton things on remixIDE
